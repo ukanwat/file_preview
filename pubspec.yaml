@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  pdfx: ^2.4.0
+  pdfx: ^2.6.0
   path: ^1.8.3
 
 dev_dependencies:
